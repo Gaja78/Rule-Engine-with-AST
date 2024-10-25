@@ -11,7 +11,7 @@ You can see the live demo of the application at the following link:
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](https://your-screenshot-link.com/homepage.png)
+![Home Page](https://github.com/babureddynr/spring-html-pages/blob/main/rule-engine-screenshot.png)
 
 ## Overview
 This project implements a **Rule Engine** using **Abstract Syntax Tree (AST)** to dynamically create, combine, and modify rules. The system evaluates user eligibility based on attributes such as age, department, income, and experience. Rules are stored in a **MySQL** database and processed using **Spring Boot**. The UI allows users to interact with the system easily.
