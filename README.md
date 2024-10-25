@@ -135,10 +135,3 @@ git push -u origin main
 ## 🚀 Future Enhancements
 - 🔄 **Dynamic Rule Modification**: Extend rule modification to support adding/removing nodes.
 - 📈 **Advanced Conditions**: Support for more complex rule logic, including user-defined functions.
-
-```
-
-This updated `README.md` includes:
-- Emojis 🎉 for enhanced readability.
-- Screenshot placeholders to visually explain UI and features.
-- A live demo section for easier access to the application.
